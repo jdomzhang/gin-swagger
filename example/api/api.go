@@ -2,8 +2,9 @@ package api
 
 import (
 	"fmt"
+
 	"github.com/gin-gonic/gin"
-	"github.com/swaggo/swag/example/basic/web"
+	"github.com/jdomzhang/swag/example/basic/web"
 )
 
 //

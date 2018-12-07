@@ -8,7 +8,7 @@ import (
 	"golang.org/x/net/webdav"
 
 	"github.com/gin-gonic/gin"
-	"github.com/swaggo/swag"
+	"github.com/jdomzhang/swag"
 )
 
 // WrapHandler wraps `http.Handler` into `gin.HandlerFunc`.
